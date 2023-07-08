@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @architelos
-- 📫 Contact me on Discord: architelos#4616
+Discord: architelos
 
-I program in Node.js, and Python.
+I program in Node.js and Python.
 
 <!---
 architelos/architelos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
